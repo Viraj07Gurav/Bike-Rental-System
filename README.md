@@ -1,1 +1,1 @@
-# Core java Mini-project
+# Core Java Mini-project
