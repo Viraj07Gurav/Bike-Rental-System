@@ -17,4 +17,5 @@ The Bike Rental System is a Java-based console application that allows customers
 ## Used OOPS concepts 
 * Encapsulation
 
-  
+## Output
+![java min](https://github.com/user-attachments/assets/aad81422-d17a-493f-83de-99877f00eaf9)
