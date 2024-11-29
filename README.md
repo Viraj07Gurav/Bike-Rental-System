@@ -14,7 +14,7 @@ The Bike Rental System is a Java-based console application that allows customers
 - Rent a Bike: The system allows customers to rent bikes. It checks if the bike is available and calculates the rental price based on the number of days.
 - Return a Bike: Customers can return bikes, and the system checks if the bike was previously rented and updates its availability.
 
-## Used OOPS concepts 
+## Used OOPS Concepts 
 * Encapsulation
 
 ## Output
