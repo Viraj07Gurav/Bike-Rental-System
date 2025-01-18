@@ -3,8 +3,8 @@ package mypack;
 import java.util.*;
 
 public class bikeRentalSystem {
-      private List<Bike> bikes;
-    private List<Customer> customers;
+      private List<Bike> bikes; //create Bike type List 
+    private List<Customer> customers; // create Customer type list
     private List<Rental> rentals;
     
     bikeRentalSystem()
@@ -15,7 +15,7 @@ public class bikeRentalSystem {
     }
     public void addBike(Bike bike)
     {
-        bikes.add(bike);
+        bikes.add(bike); //add operation on bikes
         
     }
     public void addCustomer(Customer customer)
